@@ -3,7 +3,7 @@ using DevExpress.ExpressApp.Blazor.Editors;
 using DevExpress.ExpressApp.Model;
 using JMTech.ExpressApp.Blazor.Editors.Models;
 
-namespace ExpressApp.CustomEditors.Blazor;
+namespace JMTech.ExpressApp.Blazor.Editors;
 
 public class DxPdfViewerPropertyEditor : BlazorPropertyEditorBase
 {
